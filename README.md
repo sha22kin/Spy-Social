@@ -9,6 +9,8 @@ hacking-tools
 4.cd $HOME && rm -rf Spy-Social && git clone https://github.com/sha22kin/Spy-Social.git && cd Spy-Social && dos2unix socialspy.sh && chmod +x socialspy.sh && ./socialspy.sh
 
 
+login key:emon123
+
 
 copy all command and paste into termux 
 
