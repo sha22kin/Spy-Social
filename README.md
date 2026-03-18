@@ -10,4 +10,8 @@ hacking-tools
 
 
 
+copy all command and paste into termux 
+
+
+
 
